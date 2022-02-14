@@ -1,0 +1,6 @@
+*.png
+*.jpg
+*.csv
+*.so
+__init__.py
+*.npy
