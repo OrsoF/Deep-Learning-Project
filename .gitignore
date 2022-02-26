@@ -4,3 +4,6 @@
 *.so
 __init__.py
 *.npy
+*.ipynb_checkpoints
+*.bin
+*.h5
